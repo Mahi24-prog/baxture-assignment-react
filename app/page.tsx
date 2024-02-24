@@ -1,3 +1,5 @@
+import Users from "./users/page";
+
 export default function HomePage() {
-  return <div>Home page</div>;
+  return <Users/>
 }
